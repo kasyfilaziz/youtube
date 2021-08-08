@@ -50,7 +50,10 @@ int main()
      * "Baris harus sama dengan yang telah di-input oleh user lalu kolom nya akan
      *  menyesuaikan dengan jumlah baris"
      * 
-     * ""
+     * Proses nya akan diilustrasikan menggukana powerpoint
+     *  - dijelaskan hasil yang ingin dicapai seperti apa
+     *  - dijelaskan juga step by step nya (no coding) dengan arahan dan animasi
+     *    yang jelas
      */
 
     printf("Hasil nya :\n\n");
